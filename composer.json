@@ -16,6 +16,7 @@
         "jinjie/silverstripe-valitron": "<1.0",
         "gdmedia/ss-auto-git-ignore": "~1.0"
     },
+    "license": "MIT",
     "scripts": {
         "post-update-cmd": [
             "GDM\\SSAutoGitIgnore\\UpdateScript::Go"
